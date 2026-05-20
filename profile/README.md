@@ -28,7 +28,7 @@ Our mission is to provide an unparalleled, premium reading experience featuring 
 
 At Zosho, we are committed to building a robust, open-source ecosystem. Here are our core repositories:
 
-### 📱 [Zosho App](https://github.com/zosho-app/zosho)
+### 📱 [Zosho App](https://github.com/zosho-app/zosho) *(Coming Soon)*
 The core mobile application. A beautifully crafted React Native client featuring our custom Skia viewer, reactive library, and customizable reading HUD.
 
 ### 🧩 [Zosho Extensions](https://github.com/zosho-app/zosho-extensions)
