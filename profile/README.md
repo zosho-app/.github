@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://via.placeholder.com/150/000000/00a8ff?text=Zosho+Logo](https://raw.githubusercontent.com/zosho-app/.github/refs/heads/main/profile/assets/Logo.png)" width="150" height="150" alt="Zosho Logo">
+  <img src="https://raw.githubusercontent.com/zosho-app/.github/refs/heads/main/profile/assets/Logo.png" width="150" height="150" alt="Zosho Logo">
   
   # Zosho Organization
 
