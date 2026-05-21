@@ -11,13 +11,6 @@
 
 ## About Zosho
 **Zosho** is a next-generation manga and webtoon reader built from the ground up for modern mobile devices. Designed with a focus on fluid animations, modular expansion, and absolute privacy, Zosho aims to provide the ultimate reading experience across Android and iOS.
-
-### Key Highlights
-* **Buttery-Smooth Reading:** Ultra-responsive gesture handling, panning, and pinch-to-zoom.
-* **Modern Aesthetics:** A premium, distraction-free interface styled with deep dark modes and refined transitions.
-* **Offline-First:** Read your library anywhere, anytime, with blazing-fast search and browsing.
-* **Modular Extensions:** Connect to your favorite sources securely through isolated community-built plug-ins.
-
 ---
 
 ## Core Projects
