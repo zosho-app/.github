@@ -3,8 +3,6 @@
   
   # Zosho
 
-  ### Read beautifully.
-
   [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
   [![License](https://img.shields.io/badge/License-GPL%20v3-007ACC?style=for-the-badge)](#)
 </div>
